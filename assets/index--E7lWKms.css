@@ -507,7 +507,7 @@ button {
     transition: var(--main-transition);
     background-color: #fff;
     position: relative;
-    margin: 0 5px;
+    margin: 0 15px;
 }
 
 .reviews .container .box img {
