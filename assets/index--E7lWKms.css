@@ -495,7 +495,7 @@ button {
 
 .reviews .container {
     gap: 3.4375rem;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
     display: grid;
     padding: 40px 0 0
 }
