@@ -495,9 +495,9 @@ button {
 
 .reviews .container {
     gap: 3.4375rem;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     display: grid;
-    padding: 40px 0 0
+    padding: 40px 0 0;
 }
 
 .reviews .container .box {
@@ -506,7 +506,8 @@ button {
     padding: 30px;
     transition: var(--main-transition);
     background-color: #fff;
-    position: relative
+    position: relative;
+    margin: 0 5px;
 }
 
 .reviews .container .box img {
